@@ -24,4 +24,8 @@ python run.py -input "import-directory" -output "export-directory"
 
 ### 3.1 Before
 
+![Alt text](/example/import/2015-03-20_sun_eclipse_plane.jpg?raw=true "Before")
+
 ### 3.2 After
+
+![Alt text](/example/export/2015-03-20_sun_eclipse_plane.jpg?raw=true "After")
